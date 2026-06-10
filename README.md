@@ -66,12 +66,12 @@ OCR-powered prescription reader with medicine reminders.
 # 📈 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Monalisa2810&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monalisa2810&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Monalisa2810&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monalisa2810&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Monalisa2810&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=Monalisa2810&theme=tokyonight" />
 </p>
 
 ---
@@ -102,9 +102,9 @@ OCR-powered prescription reader with medicine reminders.
 
 📧 [monalisa.das2024@vitstudent.ac.in](mailto:monalisa.das2024@vitstudent.ac.in)
 
-💼 LinkedIn: [Add Your Link]
+💼 LinkedIn: [https://www.linkedin.com/in/monalisa-das-69988b1b5/](https://www.linkedin.com/in/monalisa-das-69988b1b5/)
 
-🌍 Portfolio: [Add Your Portfolio Link]
+🌍 Portfolio: [https://demoportfolioliz.netlify.app/](https://demoportfolioliz.netlify.app/)
 
 ⭐ Thanks for visiting my profile!
 
